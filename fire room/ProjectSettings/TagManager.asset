@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - firePoint
+  - firefly
+  - sceneTransition
+  - doorFence
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4179911979
+    locked: 0
+  - name: platform
+    uniqueID: 1267915119
+    locked: 0
+  - name: collection
+    uniqueID: 1275125943
+    locked: 0
+  - name: player
+    uniqueID: 3291731943
+    locked: 0
+  - name: items
+    uniqueID: 3768814911
+    locked: 0
+  - name: foreground
+    uniqueID: 1404294239
+    locked: 0
